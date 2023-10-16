@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 MERN Stack, C++, SQL and AWS
 - 🔭 LeetCode: https://leetcode.com/tilwanigaurav8/
+- 🔭 CodeChef: [https://leetcode.com/tilwanigaurav8/](https://www.codechef.com/users/tilwanigaurav8)
 - 🌱 I’m currently a Final Year B-Tech Student
 - 👯 I’m looking for careers in IT industry ...
 - 📫 How to reach me: tilwanigaurav8@gmail.com / https://www.linkedin.com/in/gaurav-tilwani-b96421209/
